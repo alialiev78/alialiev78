@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Ali.
+I'm Ali. Gmail for contact: alievali0278@gmail.com
+
