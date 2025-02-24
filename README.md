@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Ali. Gmail for contact: alievali0278@gmail.com
+I'm Ali. I hold a bachelor's degree in mathematics and am currently pursuing a master's degree. Gmail for contact: alievali0278@gmail.com
 
