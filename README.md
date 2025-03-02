@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Ali. I graduated from the Faculty of Mathematics at HSE, now I'm getting a Master's degree in Computer Science. 
-\\ Gmail for contact: alievali0278@gmail.com
+
+Gmail for contact: alievali0278@gmail.com
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="65" height="65"/>&nbsp;
